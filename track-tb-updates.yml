@@ -1,0 +1,35 @@
+name: Track TB Treatment Updates
+
+on:
+  schedule:
+    - cron: "0 7 * * *"   # 07:00 UTC daily
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  check-updates:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run tracker
+        run: python tb_tracker.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "tb-tracker-bot"
+          git config user.email "actions@github.com"
+          git add data/trials.json data/papers.json data/status.json
+          git diff --quiet --cached || git commit -m "Update TB tracking data [automated]"
+          git push

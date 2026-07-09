@@ -1,0 +1,10 @@
+{
+  "last_run": null,
+  "new_trials_this_run": 0,
+  "new_papers_this_run": 0,
+  "total_trials_tracked": 0,
+  "total_papers_tracked": 0,
+  "clinicaltrials_api_ok": null,
+  "pubmed_api_ok": null,
+  "status": "not yet run"
+}
