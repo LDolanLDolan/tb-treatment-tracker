@@ -2005,5 +2005,41 @@
     "pub_date": "2026",
     "authors": "Otom L, Panwar P, Odong G",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42494472/"
+  },
+  {
+    "date_found": "2026-07-26T09:12:44.563651+00:00",
+    "pmid": "42500123",
+    "title": "The Impact of Directly Observed Therapy on Successful Tuberculosis Treatment: A Statistical Analysis of National Notifications Data.",
+    "journal": "Open forum infectious diseases",
+    "pub_date": "2026 Jul",
+    "authors": "Thompson RR, Ryuk DK, Pelissari DM",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42500123/"
+  },
+  {
+    "date_found": "2026-07-26T09:12:44.563671+00:00",
+    "pmid": "42500018",
+    "title": "Association between laboratory-based frailty index and unfavorable treatment outcomes in older adults with drug-susceptible pulmonary tuberculosis in the Republic of Korea: a retrospective cohort study.",
+    "journal": "Frontiers in public health",
+    "pub_date": "2026",
+    "authors": "Park TE, Woo HJ, Choe YH",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42500018/"
+  },
+  {
+    "date_found": "2026-07-26T09:12:44.563677+00:00",
+    "pmid": "42499693",
+    "title": "Chronic Cavitary Pulmonary Metastases Mimicking Infection in Epithelioid Sarcoma: A Case Report.",
+    "journal": "Case reports in oncology",
+    "pub_date": "2026 Jan-Dec",
+    "authors": "Murayama Y, Abe M, Ideta H",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42499693/"
+  },
+  {
+    "date_found": "2026-07-26T09:12:44.563680+00:00",
+    "pmid": "42499499",
+    "title": "Deciphering tuberculosis pathway mechanisms via graph neural networks and multimodal deep learning: a comprehensive AI-driven framework for precision medicine.",
+    "journal": "Frontiers in pharmacology",
+    "pub_date": "2026",
+    "authors": "Yang Y, Liu H, Lei Q",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42499499/"
   }
 ]
