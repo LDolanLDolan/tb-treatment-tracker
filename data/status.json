@@ -1,9 +1,9 @@
 {
-  "last_run": "2026-08-17T07:53:05.319241+00:00",
-  "new_trials_this_run": 0,
-  "new_papers_this_run": 5,
-  "total_trials_tracked": 71,
-  "total_papers_tracked": 505,
+  "last_run": "2026-08-18T07:37:31.606993+00:00",
+  "new_trials_this_run": 4,
+  "new_papers_this_run": 8,
+  "total_trials_tracked": 75,
+  "total_papers_tracked": 513,
   "clinicaltrials_api_ok": true,
   "pubmed_api_ok": true,
   "status": "ok"
