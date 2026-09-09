@@ -6901,5 +6901,149 @@
     "pub_date": "2026 Sep 7",
     "authors": "Ohaeri C, Brito Gourlart D, Zainulabidin AA",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42703853/"
+  },
+  {
+    "date_found": "2026-09-09T12:10:36.170888+00:00",
+    "pmid": "42711641",
+    "title": "YOLOv10-FMW: A Multiscale Convolutional Detection Method for Pulmonary Tuberculosis.",
+    "journal": "Journal of imaging informatics in medicine",
+    "pub_date": "2026 Sep 8",
+    "authors": "Lu M, Wang M, Liu J",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42711641/"
+  },
+  {
+    "date_found": "2026-09-09T12:10:36.170909+00:00",
+    "pmid": "42711607",
+    "title": "Single-step Sintered 3D-printed Fixed-dose Combined Bilayer Tablets for Compartmentalized Delivery of First-line Anti-tubercular Drugs.",
+    "journal": "The AAPS journal",
+    "pub_date": "2026 Sep 8",
+    "authors": "Karanwad TR, Bodake S, Jorvekar SB",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42711607/"
+  },
+  {
+    "date_found": "2026-09-09T12:10:36.170915+00:00",
+    "pmid": "42710380",
+    "title": "m6A writer METTL14 restricts Mycobacterium tuberculosis infection by promoting TAX1BP1-mediated autophagy in macrophages.",
+    "journal": "Immunobiology",
+    "pub_date": "2026 Sep 1",
+    "authors": "Tieliwaerdi N, Pan Z, Elihamu N",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42710380/"
+  },
+  {
+    "date_found": "2026-09-09T12:10:36.170919+00:00",
+    "pmid": "42709870",
+    "title": "Gendered experiences of people living with tuberculosis or leprosy: A global systematic review.",
+    "journal": "PLoS neglected tropical diseases",
+    "pub_date": "2026 Sep 8",
+    "authors": "Unterkircher SCW, Lenz J, Mwasuka G",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42709870/"
+  },
+  {
+    "date_found": "2026-09-09T12:10:36.170922+00:00",
+    "pmid": "42709850",
+    "title": "TRIM21 blocks DDX3X-driven stress granule formation during Mycobacterium tuberculosis infection via a non-canonical E3 ligase mechanism.",
+    "journal": "PLoS pathogens",
+    "pub_date": "2026 Sep",
+    "authors": "Xu R, Lu M, Wang G",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42709850/"
+  },
+  {
+    "date_found": "2026-09-09T12:10:36.170925+00:00",
+    "pmid": "42709757",
+    "title": "Empiric tuberculosis treatment and 12-month mortality among sputum GeneXpert-negative adults living with HIV in Uganda in the era of widespread antiretroviral therapy: A prospective cohort study.",
+    "journal": "PloS one",
+    "pub_date": "2026",
+    "authors": "Nakiyingi L, Kikaire B, Nakayenga S",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42709757/"
+  },
+  {
+    "date_found": "2026-09-09T12:10:36.170927+00:00",
+    "pmid": "42709675",
+    "title": "SMURF2 inhibits autophagic control of Mycobacterium tuberculosis in macrophages.",
+    "journal": "JCI insight",
+    "pub_date": "2026 Sep 8",
+    "authors": "Campos PC, Rahlwes KC, Ektnitphong VA",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42709675/"
+  },
+  {
+    "date_found": "2026-09-09T12:10:36.170935+00:00",
+    "pmid": "42709643",
+    "title": "Global and Regional Patterns of Drug Resistance and Treatment Regimens in Spinal Tuberculosis: A Systematic Review and Meta-Analysis.",
+    "journal": "Global spine journal",
+    "pub_date": "2026 Sep 8",
+    "authors": "Rajasekaran S, Gurusamy G, Shetty AP",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42709643/"
+  },
+  {
+    "date_found": "2026-09-09T12:10:36.170939+00:00",
+    "pmid": "42708318",
+    "title": "Computational Discovery of Phytochemicals Targeting InhA of Mycobacterium tuberculosis: Insights from Molecular Docking, MMGBSA, ADME Profiling, and Molecular Dynamics Simulations.",
+    "journal": "Current computer-aided drug design",
+    "pub_date": "2026 Sep 1",
+    "authors": "Kumar D, Bhoomika, Khichi A",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42708318/"
+  },
+  {
+    "date_found": "2026-09-09T12:10:36.170943+00:00",
+    "pmid": "42708115",
+    "title": "Probable Isolated Rectal Tuberculosis Presenting as Mild Chronic Proctitis in an Immunocompetent Adolescent: A Diagnostic Pitfall and Mini-Review of the Literature.",
+    "journal": "ACG case reports journal",
+    "pub_date": "2026 Sep",
+    "authors": "Bhaduri G, Basak B, Saha B",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42708115/"
+  },
+  {
+    "date_found": "2026-09-09T12:10:36.170947+00:00",
+    "pmid": "42707965",
+    "title": "Autophagy in tuberculosis: advances, translational gaps, and the promise of host-directed therapies.",
+    "journal": "Frontiers in cellular and infection microbiology",
+    "pub_date": "2026",
+    "authors": "Challa M, Padma B J, Shanmugam S",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42707965/"
+  },
+  {
+    "date_found": "2026-09-09T12:10:36.170950+00:00",
+    "pmid": "42707923",
+    "title": "Alternative ribosome expression alone is insufficient to drive antibiotic tolerance in Mycobacterium bovis BCG.",
+    "journal": "Frontiers in microbiology",
+    "pub_date": "2026",
+    "authors": "Butler RE, Barber J, Mayson G",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42707923/"
+  },
+  {
+    "date_found": "2026-09-09T12:10:36.170953+00:00",
+    "pmid": "42707592",
+    "title": "Host-response biomarkers for precision tuberculosis: from immune transcriptomic signatures to clinical risk stratification.",
+    "journal": "Frontiers in cell and developmental biology",
+    "pub_date": "2026",
+    "authors": "Yan N, Wang Z, Dong S",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42707592/"
+  },
+  {
+    "date_found": "2026-09-09T12:10:36.170955+00:00",
+    "pmid": "42707556",
+    "title": "Obstructive Jaundice due to a Periportal Tuberculous Mass Complicated by Anti-Tuberculous Drug-Induced Liver Injury: A Case Report From a Low-Resource Setting.",
+    "journal": "Clinical case reports",
+    "pub_date": "2026 Sep",
+    "authors": "Lema GD, Chanie Y, Yanore MT",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42707556/"
+  },
+  {
+    "date_found": "2026-09-09T12:10:36.170958+00:00",
+    "pmid": "42707429",
+    "title": "Beyond Bartonellosis: A Case Report of Hepatic Tuberculosis as a Final Diagnosis in a Child With Down Syndrome.",
+    "journal": "Case reports in infectious diseases",
+    "pub_date": "2026",
+    "authors": "Camargos P, Filho AO, Silva JB",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42707429/"
+  },
+  {
+    "date_found": "2026-09-09T12:10:36.170961+00:00",
+    "pmid": "42707228",
+    "title": "Integrating metagenomic next-generation sequencing into a multimodal diagnostic framework for spinal infection: enhancing etiological identification and clinical prediction.",
+    "journal": "Frontiers in cellular and infection microbiology",
+    "pub_date": "2026",
+    "authors": "Liang H, Qin H, Chen J",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42707228/"
   }
 ]
